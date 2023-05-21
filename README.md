@@ -1,6 +1,7 @@
 # CP3-Devops-Hub_Iot
 
 # Query Utilizada:
+```
 WITH AggregationStep AS
 (
 SELECT 
@@ -22,5 +23,6 @@ INTO
     powerbioutput
 FROM 
     AggregationStep
+```
    
- # Resultados no Power Bi:
+# Resultados no Power Bi:
