@@ -1,5 +1,7 @@
 # CP3-Devops-Hub_Iot
 
+
+
 # Query Utilizada:
 ```
 WITH AggregationStep AS
@@ -25,4 +27,5 @@ FROM
     AggregationStep
 ```
    
-# Resultados no Power Bi:
+# Arquitetura do projeto:
+./Arquitetura.png
