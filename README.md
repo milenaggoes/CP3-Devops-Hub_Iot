@@ -28,4 +28,4 @@ FROM
 ```
    
 # Arquitetura do projeto:
-./Arquitetura.png
+![arquitetetura](arquitetura.png)
